@@ -1,0 +1,13 @@
+FROM python:3.9
+
+# Create a directory to store the script and CSV files
+WORKDIR /app/output/
+
+COPY requirements.txt /app/output/
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy the Python script into the container
+COPY hit_pokeapi.py /app/output/
+
+# Run the Python script to generate CSV files
+CMD ["python3", "hit_pokeapi.py"]

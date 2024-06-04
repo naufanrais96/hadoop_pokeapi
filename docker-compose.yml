@@ -1,0 +1,52 @@
+version: '3.8'
+
+services:
+  namenode:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop2.7.4-java8
+    container_name: namenode
+    platform: linux/amd64
+    environment:
+      - CLUSTER_NAME=test
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:8020
+      - HDFS_CONF_dfs_replication=1
+    ports:
+      - "9870:9870"
+      - "9000:9000"
+    volumes:
+      - namenode_data:/hadoop/dfs/name
+      - shared_data:/shared
+    networks:
+      - hadoop
+
+  datanode:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop2.7.4-java8
+    container_name: datanode
+    platform: linux/amd64
+    environment:
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:8020
+    volumes:
+      - datanode_data:/hadoop/dfs/data
+    networks:
+      - hadoop
+    depends_on:
+      - namenode
+
+  python:
+    build:
+      context: .
+      dockerfile: Dockerfile.python
+    container_name: python_container
+    volumes:
+      - shared_data:/app/output
+    networks:
+      - hadoop
+    depends_on:
+      - namenode
+
+volumes:
+  namenode_data:
+  datanode_data:
+  shared_data:
+
+networks:
+  hadoop:

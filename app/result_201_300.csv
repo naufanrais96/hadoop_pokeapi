@@ -1,0 +1,50 @@
+id,pokemon_ability_id,effect,language,short_effect
+201,201,"Whenever this Pokémon takes damage from a move that causes its HP to drop below 50%, its Special Attack rises by one stage.",en,Raises this Pokémon's Special Attack by one stage every time its HP drops below half.
+202,202,"During Hail, this Pokémon has double Speed.",en,"During Hail, this Pokémon has double Speed."
+203,203,A move used by this Pokémon will not make contact.,en,This Pokémon's moves do not make contact.
+204,204,"When this Pokémon uses a move that is sound-based, that move's type is Water.",en,Sound-based moves become Water-type.
+205,205,This Pokémon's healing moves have their priority increased by 3.,en,This Pokémon's healing moves have their priority increased by 3.
+206,206,"When this Pokémon uses a Normal moves, that move is Electric its power is 1.2×.",en,This Pokémon's Normal moves are Electric and have their power increased to 1.2×.
+207,207,Doubles this Pokémon's Speed on Electric Terrain.,en,Doubles this Pokémon's Speed on Electric Terrain.
+208,208,"If this Pokémon is a wishiwashi and level 20 or above, then when it enters battle and at the start of each turn, it becomes Schooling Form if its HP is 25% or higher and Solo Form otherwise.
+
+This ability cannot be replaced, copied, or nullified.",en,Wishiwashi becomes Schooling Form when its HP is 25% or higher.
+209,209,"If this Pokémon is in its Disguised Form and takes damage from a move, it switches to its Busted Form and the damage is prevented.  Other effects are not prevented.
+
+This ability cannot be copied or replaced.  This ability only takes effect for Mimikyu.",en,Prevents the first instance of battle damage.
+210,210,"Transforms this Pokémon into Ash-Greninja after fainting an opponent.  Water Shuriken's power is 20 and always hits three times.
+
+This ability cannot be copied or replaced.  This ability only takes effect for Greninja.",en,Transforms this Pokémon into Ash-Greninja after fainting an opponent.  Water Shuriken's power is 20 and always hits three times.
+211,211,"Transforms 10% or 50% Zygarde into Complete Forme when its HP is below 50%.
+
+This ability cannot be copied or replaced.  This ability only takes effect for Zygarde.",en,Transforms 10% or 50% Zygarde into Complete Forme when its HP is below 50%.
+212,212,This Pokémon's moves and item ignore the usual immunity of Poison and Steel Pokémon when attempting to inflict poison.,en,This Pokémon can inflict poison on Poison and Steel Pokémon.
+213,213,This Pokémon always acts as though it were Asleep.  It cannot be given another status ailment; it's unaffected by yawn; it can use sleep talk; and so on.,en,This Pokémon always  acts as though it were Asleep.
+214,214,"When an opposing Pokémon attempts to use a move that targets this Pokémon or an ally, and that move has priority, it will fail.",en,Opposing Pokémon cannot use priority attacks.
+215,215,"When this Pokémon faints from an opponent's move, that opponent takes damage equal to the HP this Pokémon had remaining.",en,"When this Pokémon faints from an opponent's move, that opponent takes damage equal to the HP this Pokémon had remaining."
+216,216,"Whenever another Pokémon uses a dance move, this Pokémon will use the same move immediately afterwards.",en,"Whenever another Pokémon uses a dance move, this Pokémon will use the same move immediately afterwards."
+217,217,Ally Pokémon's moves have their power increased to 1.3×.,en,Ally Pokémon's moves have their power increased to 1.3×.
+218,218,Damage from contact moves is halved.  Damage from Fire moves is doubled.,en,Damage from contact moves is halved.  Damage from Fire moves is doubled.
+219,219,"When an opposing Pokémon attempts to use a move that targets this Pokémon or an ally, and that move has priority, it will fail.",en,Opposing Pokémon cannot use priority attacks.
+220,220,This Pokémon's Special Attack rises by one stage every time any Pokémon faints.,en,This Pokémon's Special Attack rises by one stage every time any Pokémon faints.
+221,221,"When this Pokémon takes regular damage from a contact move, the attacking Pokémon's Speed lowers by one stage.",en,"When this Pokémon takes regular damage from a contact move, the attacking Pokémon's Speed lowers by one stage."
+222,222,"When an ally faints, this Pokémon gains its Ability.",en,"When an ally faints, this Pokémon gains its Ability."
+223,223,"When an ally faints, this Pokémon gains its Ability.",en,"When an ally faints, this Pokémon gains its Ability."
+224,224,Raises this Pokémon's highest stat by one stage when it faints another Pokémon.,en,Raises this Pokémon's highest stat by one stage when it faints another Pokémon.
+225,225,"Changes this Pokémon's type to match its held Memory.
+
+This ability cannot be copied, replaced, or nullified.  This ability only takes effect for Silvally.",en,Changes this Pokémon's type to match its held Memory.
+226,226,"When this Pokémon enters battle, it changes the terrain to electric terrain.",en,"When this Pokémon enters battle, it changes the terrain to Electric Terrain."
+227,227,"When this Pokémon enters battle, it changes the terrain to psychic terrain.",en,"When this Pokémon enters battle, it changes the terrain to Psychic Terrain."
+228,228,"When this Pokémon enters battle, it changes the terrain to misty terrain.",en,"When this Pokémon enters battle, it changes the terrain to Misty Terrain."
+229,229,"When this Pokémon enters battle, it changes the terrain to grassy terrain.",en,"When this Pokémon enters battle, it changes the terrain to Grassy Terrain."
+230,230,"This Pokémon's stats cannot be lowered by other Pokémon's moves or abilities.  This effect only applies to normal stat modifications and not more exotic effects such as topsy turvy or power swap.
+
+This Ability is not bypassed by mold breaker, teravolt, or turboblaze.",en,Other Pokémon cannot lower this Pokémon's stats.
+231,231,"When this Pokémon has full HP, regular damage (not fixed damage!) from moves is halved.
+
+This ability cannot be nullified.",en,"When this Pokémon has full HP, regular damage from moves is halved."
+232,232,"Super-effective damage this Pokémon takes is reduced to 0.75×.
+
+This Ability is not bypassed by mold breaker, teravolt, or turboblaze.",en,Reduces super-effective damage to 0.75×.
+233,233,Increases super-effective damage dealt to 1.25×.,en,Increases super-effective damage dealt to 1.25×.

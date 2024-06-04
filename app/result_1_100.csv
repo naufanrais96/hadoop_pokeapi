@@ -1,0 +1,351 @@
+id,pokemon_ability_id,effect,language,short_effect
+1,1,"Attacken die Schaden verursachen haben mit jedem Treffer eine 10% Chance das Ziel zurückschrecken zu lassen, wenn die Attacke dies nicht bereits als Nebeneffekt hat.
+
+Der Effekt stapelt nicht mit dem von getragenen Items.
+
+Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, tauchen wilde Pokémon nur halb so oft auf.",de,Mit jedem Treffer besteht eine 10% Chance das Ziel zurückschrecken zu lassen.
+2,2,"Das weather ändert sich zu rain wenn ein Pokémon mit dieser Fähigkeit den Kampf betritt. Dieser Effekt ist dauerhaft bis das weather geändert wird.
+
+Wenn mehrere Pokémon mit dieser Fähigkeit, drought, sand stream oder snow warning zur selben Zeit den Kampf betreten, werden die Fähigkeiten nach Reihenfolge der speed der Pokémon ausgelöst, unter Berücksichtigung von trick room.",de,Ändert beim Betreten des Kampfes das weather in rain.
+3,3,Die speed des Pokémon erhöht sich jede Runde um 1 Stufe.,de,Steigert die speed um 1 Stufe nach jeder Runde.
+4,4,"Attacken können keinen kritischen Treffer landen.
+
+Diese Fähigkeit ist identisch mit shell armor.",de,Schützt vor kritischen Treffern.
+5,5,"Wenn das Pokémon volle hp hat, lässt jeder Treffer der das Pokémon besiegt hätte ein hp übrig. Das Pokémon ist immun gegen die K.O.-Attacken fissure, guillotine, horn drill und sheer cold.
+
+Hält das Pokémon ein focus sash, hat die Fähigkeit Vorrang und das Item wird nicht verbraucht.",de,"Verhindert K.O.-Treffer bei vollen hp, das Pokémon behält 1 hp. Schützt gegen K.O.-Attacken."
+6,6,"Wenn sich ein Pokémon mit dieser Fähigkeit im Kampf befindet, schlagen die Attacken self destruct und explosion fehl und aftermath hat keinen Effekt.",de,"Verhindert self destruct, explosion und aftermath."
+7,7,"Ein Pokémon mit dieser Fähigkeit kann nicht paralysiert werden.
+
+Wenn ein paralysiertes Pokémon diese Fähigkeit erhält, wird es von der paralysis geheilt. Das bezieht das Wiedererlangen dieser Fähigkeit nach dem Kampf mit ein.",de,Verhindert paralysis.
+8,8,"Während eines Sandsturms hat ein Pokémon mit dieser Fähigkeit einen um 25% erhöhten evasion und es nimmt keinen Schaden durch Sandstürme.
+
+Der Bonus zählt nicht als Statuswerte Änderung.
+
+Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, tauchen im Sandsturm nur halb so viele Pokémon auf.",de,Erhöht den evasion um 25% während eines Sandsturms. Kein Schaden durch Sandstürme.
+9,9,"Wenn ein Pokémon mit dieser Fähigkeit von einer Attacke mit Kontakt getroffen wird, besteht eine 30% Chance, dass der Angreifer paralysiert wird.
+
+Pokémon die immun gegen electric Attacken sind können trotzdem von dieser Fähigkeit paralysiert werden.
+
+Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, besteht eine 50% Chance einem electric Pokémon zu begegnen, falls es welche gibt.",de,30% Chance das angreifende Pokémon bei Kontakt zu paralysieren.
+10,10,"Wenn ein Pokémon mit dieser Fähigkeit von einer electric Attacke getroffen wird, wird es um 1/4 seiner maximalen hp geheilt. Jeder andere Effekt der Attacke wird ignoriert.
+
+Die Fähigkeit wirkt nicht, wenn das Pokémon vom Typ ground ist. electric Attacken ignorieren den substitute dieses Pokémons.
+
+Der Effekt gilt auch für Attacken die keinen Schaden verursachen, wie z.B. thunder wave.",de,Absorbiert electric Attacken und heilt 1/4 der max hp.
+11,11,"Wenn ein Pokémon mit dieser Fähigkeit von einer water Attacke getroffen wird, wird es um 1/4 seiner maximalen hp geheilt. Jeder andere Effekt der Attacke wird ignoriert.
+
+water Attacken ignorieren den substitute dieses Pokémons.",de,Absorbiert water Attacken und heilt 1/4 der maximalen hp.
+12,12,"Dieses Pokémon kann sich nicht verlieben und ist immun gegen captivate.
+
+Wenn ein Pokémon verliebt ist und diese Fähigkeit erhält, wird es von der infatuation geheilt.",de,Verhindert infatuation und schützt gegen captivate.
+13,13,"Während ein Pokémon mit dieser Fähigkeit im Kampf ist, kann das weather zwar geändert werden, hat aber keinen Effekt.
+
+Diese Fähigkeit ist identisch mit air lock.",de,Entfernt alle Wettereffekte aber ändert nicht das weather selbst.
+14,14,"Die Attacken eines Pokémon mit dieser Fähigkeit haben eine um 30% erhöhte accuracy.
+
+Diese Fähigkeit hat keinen Einfluss auf K.O.-Attacken (fissure, guillotine, horn drill und sheer cold).
+
+Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, erhöht sich die Chance, dass ein wildes Pokémon ein Item trägt von 50%, 5% oder 1% auf 60%, 20% oder 5%, respektive.",de,Erhöht die accuracy von Attacken um 30%.
+15,15,"Ein Pokémon mit dieser Fähigkeit kann nicht einschlafen.
+
+rest schlägt fehl. Wenn ein Pokémon schläft und diese Fähigkeit erhält, wacht es sofort auf. Das bezieht das Wiedererlangen dieser Fähigkeit nach dem Kampf mit ein.
+
+Diese Fähigkeit ist identisch mit vital spirit.",de,Verhindert sleep.
+16,16,"Wenn ein Pokémon mit dieser Fähigkeit von einer Attacke getroffen wird die Schaden verursacht, ändert sich der Typ des Pokémons in den der Attacke.
+
+Wenn das Pokémon 2 Typen hat, werden beide überschrieben. Das Pokémon muss direkten Schaden erleiden, Attacken die vom substitute geblockt werden, lösen den Effekt nicht aus, ebenso wie Attacken mit indirektem Schaden wie spikes.
+
+Bei Attacken mit mehreren Treffern löst nur der Letzte den Effekt aus.
+
+Diese Fähigkeit hat keinen Einfluss auf shadow Attacken in Pokémon Colosseum und XD: Der dunkle Sturm.",de,Ändert den Typ des Pokémons in den der Attacke von der es getroffen wird.
+17,17,"Ein Pokémon mit dieser Fähigkeit kann nicht vergiftet werden. Das schließt schwere poison mit ein.
+
+Wenn ein vergiftetes Pokémon diese Fähigkeit erhält, wird es von der poison geheilt. Das bezieht das Wiedererlangen dieser Fähigkeit nach dem Kampf mit ein.",de,Verhindert poison.
+18,18,"Ein Pokémon mit dieser Fähigkeit ist immun gegen fire Attacken. Sobald es von einer fire Attacke getroffen wurde, erhöht sich der Schaden der eigenen fire Attacken um 50% bis es den Kampf verlässt.
+
+Die Fähigkeit hat keinen Effekt, wenn das Pokémon eingefroren ist. Der Bonus bleibt erhalten wenn das Pokémon eingefroren ist und wieder auftaut oder wenn es die Fähigkeit wechselt bzw. diese deaktiviert wird. fire Attacken ignorieren den substitute. Der Effekt wirkt auch bei fire Attacken die keinen Schaden verursachen, wie z.B. will o wisp.",de,"Schützt vor fire Attacken. Sobald eine fire Attacke blockiert wurde, erhöht sich der Schaden der eigenen fire Attacken um 50%."
+19,19,"Ein Pokémon mit dieser Fähigkeit ist immun gegen Zusatzeffekt von Attacken.
+
+Ein Zusatzeffekt ist die Chance einer Attacke, als ""Effektchance"" bezeichnet, eine status ailment oder eine stat modifier hervorzurufen oder das Ziel zurückschrecken zu lassen, zusätzlich zum Haupteffekt einer Attacke. Zum Beispiel ist die paralysis die thunder shock verursachen kann ein Zusatzeffekt, im Gegensatz zu thunder wave, genauso wie das Entfernen des Items durch knock off und die erhöhte kritische Trefferchance durch air cutter.",de,Schützt vor Zusatzeffekten von Attacken.
+20,20,"Ein Pokémon mit dieser Fähigkeit kann nicht verwirrt werden.
+
+Wenn ein Pokémon verwirrt ist und diese Fähigkeit erhält, wird es von der confusion geheilt.",de,Verhindert confusion.
+21,21,"Ein Pokémon mit dieser Fähigkeit kann nicht mit Attacken wie whirlwind ausgetauscht werden.
+
+dragon tail und circle throw verursachen trotzdem Schaden.
+
+Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, erhöht sich die Erfolgsrate beim Angeln.",de,Verhindert den Austausch von Pokémon durch Attacken.
+22,22,"Wenn ein Pokémon mit dieser Fähigkeit den Kampf betritt, wird der attack des Gegners um 1 Stufe gesenkt. Im Mehrfachkämpfen werden alle Gegner beeinflusst.
+
+Diese Fähigkeit löst auch aus, wenn sie im Kampf erlangt wurde, aber nicht, wenn sie verloren und zurückerlangt wurde.
+
+Die Fähigkeit hat keinen Einfluss auf Gegner mit einem substitute.
+
+Außerhalb vom Kampf: Wenn das erste Pokémon im Team diese Fähigkeit hat, dann hat jede Begegnung mit einem Pokémon das 5 oder mehr Level niedriger ist, eine Chance von 50% übersprungen zu werden.",de,Senkt den attack des Gegners um 1 Stufe beim Betreten des Kampfes.
+23,23,"Während ein Pokémon mit dieser Fähigkeit im Kampf ist, kann der Gegner nicht fliehen oder ausgetauscht werden.
+
+Andere Pokémon mit derselben Fähigkeit sind nicht betroffen. Pokémon mit run away können trotzdem fliehen. Pokémon können mit bestimmten Items oder Attacken ausgetauscht werden.",de,"Verhindert, dass der Gegner flieht oder ausgetauscht wird."
+24,24,"Wenn eine gegnerische Attacke Kontakt mit einem Pokémon mit dieser Fähigkeit hat, erleidet der Angreifer 1/8 seiner maximalen hp Schaden.
+
+Diese Fähigkeit ist identisch mit iron barbs.",de,Angreifende Pokémon erhalten 1/8 ihrer maximalen hp Schaden bei Kontakt.
+25,25,"Ein Pokémon mit dieser Fähigkeit ist immun gegen alle Schaden verursachenden Attacken die nicht sehr effektiv sind.
+
+Attacken die festen Schaden verursachen, wie night shade oder seismic toss werden mitgezählt. Schaden der nicht direkt durch die Attacke verursacht wird, wie der vom weather, einer status ailment oder spikes wird nicht verhindert.
+
+Diese Fähigkeit kann nicht mit role play kopiert oder mit skill swap getauscht werden, kann aber mit trace kopiert, mit gastro acid deaktiviert oder mit worry seed geändert werden. Das Pokémon kann seine Fähigkeit trotzdem mit role play selbst tauschen.
+
+Wenn das Pokémon einen substitute hat, werden Attacken zuerst durch die Fähigkeit verhindert, erst Attacken die trotzdem treffen würden, würden durch den substitute verhindert.",de,Schützt gegen Schaden verursachende Attacken die nicht sehr effektiv sind.
+26,26,"Ein Pokémon mit dieser Fähigkeit ist immun gegen ground Attacken, spikes, toxic spikes und arena trap.
+
+Diese Fähigkeit wird mit gravity oder ingrain deaktiviert oder während eine iron ball getragen wird. roost deaktiviert diese Fähigkeit nicht.",de,Verhindert ground Attacken
+27,27,"Wenn ein Pokémon mit dieser Fähigkeit von einer Attacke getroffen wird, die Kontakt herstellt, besteht eine 30% Chance, dass der Angreifer paralysiert oder vergiftet wird oder einschläft.
+
+Dabei wird nicht berücksichtigt ob der Angreifer immun gegen eine der Statusänderungen ist, es besteht nur eine geringere Chance.",de,"Hat eine 30% Chance bei Kontakt entweder paralysis, poison oder sleep auszulösen."
+28,28,"Wenn ein Pokémon mit dieser Fähigkeit verbrannt, paralysiert oder vergiftet wird, erhält das verantwortliche Pokémon die gleiche status ailment.
+
+Diese Fähigkeit gibt schwere poison als schwere poison zurück. Die Fähigkeit funktioniert nicht bei Statusänderungen die nicht direkt von einem anderen Pokémon erhalten wurden, so wie poison von toxic spikes oder die burn durch flame orb.
+
+Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, haben wilde Pokémon eine Chance von 50% dasselbe Wesen wie das des Pokémons zu haben. Das gilt nicht für Pokémon die außerhalb von Kämpfen erhalten werden oder sich bewegende Legendäre Pokémon.",de,"Kopiert burn, paralysis und poison auf den Verursacher."
+29,29,"Pokémon mit dieser Fähigkeit können keine negativen Statuswerte Änderungen von anderen Pokémon zugefügt werden.
+
+Diese Fähigkeit verhindert keine stat modifier die nicht direkt verursacht wurden, wie die verminderte speed durch paralysis oder selbstverursachte negative Statuswerteänderungen wie durch overheat. Dem Pokémon können trotzdem negative Statuswerte mit guard swap, heart swap oder power swap übertragen werden.
+
+Diese Fähigkeit ist identisch mit white smoke im Kampf.",de,Verhindert negative stat modifier von anderen Pokémon.
+30,30,"Wenn ein Pokémon mit dieser Fähigkeit ausgewechselt wird, wird es von einer etwaigen major status ailment geheilt.
+
+Wenn diese Fähigkeit während des Kampfes erlangt wird, wird das Pokémon beim Auswechseln geheilt, bevor es die Fähigkeit wieder verliert.",de,Heilt jede major status ailment beim Auswechseln
+31,31,"Wenn sich ein Pokémon mit dieser Fähigkeit im Kampf befindet, werden alle electric Attacken die nur 1 Ziel haben auf dieses Pokémon umgeleitet, sofern es ein mögliches Ziel ist. Wird es von electric Attacken getroffen, erhöht sich sein special attack um 1 Stufe, jeder andere Effekt der Attacke wird ignoriert.
+
+Wenn das eigentliche Ziel der Attacke ebenfalls diese Fähigkeit besitzt, wird sie nicht umgeleitet. Gibt es mehrere Pokémon mit dieser Fähigkeit, wird die Attacke zu dem mit der höchsten speed umgeleitet, oder, falls alle die gleiche haben, zu einem zufälligen Pokémon. follow me wirkt vor dieser Fähigkeit.
+
+Wenn das Pokémon mit dieser Fähigkeit vom Typ ground ist, verhindert seine electric Immunität das Ansteigen des Spezialangriffs.",de,Leitet electric Attacken mit nur einem Ziel auf dieses Pokémon um. Absorbiert electric Attacken und erhöht dabei den special attack um 1 Stufe.
+32,32,"Attacken von Pokémon mit dieser Fähigkeit treten doppelt so häufig auf wie normal.
+
+Ein Zusatzeffekt ist die Chance einer Attacke, als ""Effectchance"" bezeichnet, eine status ailment oder eine stat modifier hervorzurufen oder das Ziel zurückschrecken zu lassen, zusätzlich zum Haupteffekt einer Attacke. Zum Beispiel ist die paralysis die thunder shock verursachen kann ein Zusatzeffekt, im Gegensatz zu thunder wave, genauso wie das Entfernen des Items durch knock off und das Erhöhen der kritischen Trefferchance durch air cutter.
+
+secret power ist davon unberührt.",de,Verdoppelt die Chance das ein Zusatzeffekt beim Einsatz einer Attacke auftritt
+33,33,"Die speed eines Pokémon mit dieser Fähigkeit ist doppelt so hoch wie normal, solange es regnet.
+
+Dieser Bonus zählt nicht als stat modifier.",de,Verdoppelt die speed während es regnet.
+34,34,"Während strong sunlight ist die speed eines Pokémon mit dieser Fähigkeit doppelt so hoch wie normal.
+
+Dieser Bonus zählt nicht als stat modifier.",de,Verdoppelt die speed während starkem Sonnenlicht.
+35,35,"Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, ist die Wahrscheinlichkeit einem wilden Pokémon zu begegnen doppelt so hoch wie normal.
+
+Diese Fähigkeit hat im Kampf keinen Effekt.",de,"Verdoppelt die Wahrscheinlichkeit, einem wilden Pokémon zu begegnen."
+36,36,"Wenn ein Pokémon mit dieser Fähigkeit den Kampf betritt, kopiert es die Fähigkeit eines zufällig ausgewählten Gegners.
+
+flower gift, forecast, illusion, imposter, multitype, trace, wonder guard und zen mode können nicht kopiert werden.",de,Kopiert die Fähigkeit des Gegners beim Betreten des Kampfes.
+37,37,"Solange sich ein Pokémon mit dieser Fähigkeit im Kampf befindet ist sein attack doppelt so hoch wie sonst.
+
+Dieser Bonus zählt nicht als stat modifier.
+
+Diese Fähigkeit ist identisch mit pure power.",de,Verdoppelt den attack im Kampf.
+38,38,"Wenn ein Pokémon mit dieser Fähigkeit von einer Attacke mit Kontakt getroffen wird, besteht eine 30% Chance den Angreifer zu vergiften.",de,Hat eine 30% Chance den Gegner bei Kontakt zu vergiften.
+39,39,Ein Pokémon mit dieser Fähigkeit kann nicht zurückschrecken.,de,Verhindert zurückschrecken.
+40,40,"Ein Pokémon mit dieser Fähigkeit kann nicht einfrieren.
+
+Erhält ein eingefrorenes Pokémon diese Fähigkeit, taut es sofort auf. Das bezieht das Wiedererlangen dieser Fähigkeit nach dem Kampf mit ein.
+
+Außerhalb vom Kampf: Wenn ein Pokémon im Team diese Fähigkeit hat, wird der hatch counter um 2 statt um 1 pro step cycle reduziert, was dazu führt, dass Eier doppelt so schnell schlüpfen. Dieser Effekt stapelt sich nicht, wenn mehrere Pokémon diese Fähigkeit oder flame body haben.",de,Verhindert einfrieren.
+41,41,"Ein Pokémon mit dieser Fähigkeit kann keine burn erleiden.
+
+Wenn ein Pokémon mit burn diese Fähigkeit erhält, wird es von der burn geheilt. Das bezieht das Wiedererlangen dieser Fähigkeit nach dem Kampf mit ein.",de,Verhindert burn.
+42,42,"Solange sich ein Pokémon mit dieser Fähigkeit im Kampf befindet, werden steel Pokémon daran gehindert zu fliehen oder ausgetauscht zu werden.
+
+Pokémon mit der Fähigkeit run away können trotzdem fliehen. Pokémon können trotzdem mit Hilfe von bestimmten Items oder Attacken ausgetauscht werden.
+
+Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, erhöht sich die Chance wilden steel Pokémon zu begegnen.",de,"Verhindert, dass steel Pokémon fliehen oder ausgetauscht werden können."
+43,43,"Pokémon mit dieser Fähigkeit sind immun gegen Attacken die schallbasiert sind.
+
+heal bell wird nicht verhindert. uproar hindert die Pokémon trotzdem am einschlafen. Dieses Pokémon kann trotzdem einen perish song Zähler durch baton pass erhalten, und es wird einen Zähler behalten, wenn es die Fähigkeit nach Einsatz von perish song erhalten hat.
+
+howl, roar of time, sonic boom und yawn sind keine schallbasierten Attacken.",de,Schütz vor Schall Attacken.
+44,44,Pokémon mit dieser Fähigkeit heilen am Ende jeder Runde 1/16 ihrer maximalen hp wenn es regnet.,de,Heilt jede Runde 1/16 der maximalen hp wenn es regnet.
+45,45,"Das weather ändert sich zu sandstorm wenn ein Pokémon mit dieser Fähigkeit den Kampf betritt und hört erst auf, wenn es von einem anderen weather abgelöst wird.
+
+Wenn mehrere Pokémon mit dieser Fähigkeit, drizzle, drought oder snow warning zur selben Zeit den Kampf betreten, werden die Fähigkeiten nach Reihenfolge der speed der Pokémon ausgelöst, unter Berücksichtigung von trick room.
+
+Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, tauchen im Sandsturm nur halb so viele Pokémon auf.",de,Beschwört beim Betreten des Kampfes einen sandstorm herauf der nicht endet.
+46,46,"Attacken die ein Pokémon mit dieser Fähigkeit zum Ziel haben, kosten 1 pp mehr als sonst.
+
+Die Fähigkeit löst für jeden Treffer von Attacken die öfters treffen aus. Die Fähigkeit löst auch bei Attacken aus die fehlschlagen oder daneben gehen. Der Effekt zählt nicht für Attacken desselben Teams die das Ganze Feld oder nur die eigene Seite treffen, sowie die eigenen Attacken die sich selbst treffen. Der Effekt löst dafür bei Attacken von Teammitgliedern aus die nur das Pokémon mit dieser Fähigkeit zum Ziel haben, die alle anderen zum Ziel haben und Attacken von Gegnern die das ganze Feld treffen. Wenn diese Fähigkeit die Kosten auf einen Wert erhöht, der die verbleibenden pp übersteigt, wird es alle verbrauchen.
+
+Wenn ein Pokémon mit dieser Fähigkeit den Kampf betritt, werden alle Trainer über diese Fähigkeit benachrichtigt.
+
+Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, tauchen Pokémon mit einem höheren Level häufiger auf.",de,Erhöht die pp Kosten des Gegners um 1.
+47,47,Pokémon mit dieser Fähigkeit erhält von fire und ice Attacken nur halben Schaden.,de,Halbiert den Schaden von fire und ice Attacken.
+48,48,"Bei Pokémon mit dieser Fähigkeit sinkt die Anzahl der Verbleibenden Runden im Schlaf pro Runde um 2 statt um 1.
+
+Wenn der Zähler bei 1 ist fällt er auf 0 und das Pokémon wacht auf.",de,Pokémon wachen doppelt so schnell wieder auf.
+49,49,"Wenn ein Pokémon mit dieser Fähigkeit von einer Attacke getroffen wird die Kontakt herstellt, besteht eine 30% Chance, den Gegner zu verbrennen.
+
+Außerhalb vom Kampf: Wenn ein Pokémon im Team diese Fähigkeit hat, wird der hatch counter um 2 statt um 1 pro step cycle reduziert, was dazu führt, dass Eier doppelt so schnell schlüpfen. Dieser Effekt stapelt sich nicht, wenn mehrere Pokémon diese Fähigkeit oder magma armor haben.",de,"Hat eine 30% Chance, bei Kontakt burn auszulösen."
+50,50,"Pokémon mit dieser Fähigkeit können immer aus Kämpfen mit wilden Pokémon fliehen, selbst wenn es durch eine Attacke oder eine Fähigkeit gefangen ist.",de,"Stellt sicher, dass die Flucht vor wilden Pokémon gelingt."
+51,51,"Pokémon mit dieser Fähigkeit kann die accuracy nicht gesenkt werden.
+
+Die Fähigkeit verhindert nur direkte Statuswertveränderungen, der Genauigkeitsverlust durch fog wird nicht verhindert, auch nicht das Erhöhen des Fluchtwerts des Gegners. Pokémon mit dieser Fähigkeit kann trotzdem negative accuracy durch heart swap übertragen werden.
+
+Außerhalb vom Kampf: Wenn das erste Pokémon im Team diese Fähigkeit hat, dann hat jede Begegnung mit einem Pokémon das 5 oder mehr Level niedriger ist, eine Chance von 50% übersprungen zu werden.",de,Verhindert das Absenken der accuracy.
+52,52,"Pokémon mit dieser Fähigkeit kann der attack nicht gesenkt werden.
+
+Die Fähigkeit verhindert nur Statuswertveränderungen, der verminderte attack durch burn wird nicht verhindert. Pokémon mit dieser Fähigkeit können trotzdem negative accuracy durch heart swap oder power swap übertragen werden.",de,Verhindert das Absenken des Angriffs.
+53,53,"Wenn ein Pokémon mit dieser Fähigkeit nicht bereits ein Item hält und ein anderes Pokémon ein getragenes Item verbraucht oder wegschleudert, hebt es das Item am Ende der Runde auf. Nach jedem Kampf besteht eine 10% Chance, dass das Pokémon ein Item aufhebt wenn es nicht bereits eines trägt.
+
+air balloon und eject button können nicht aufgehoben werden.
+
+Die gefundenen Items variieren je nach Spiel und, seit Smaragd, dem Level des Pokémons mit dieser Fähigkeit. Die Fähigkeit wird überprüft wenn der Kampf endet und temporär erlangte Fähigkeiten wieder weg sind.",de,Hebt benutzte oder weggeschleuderte getragene Items von anderen Pokémon auf. Kann nach dem Kampf ein Item aufheben.
+54,54,"Pokémon mit dieser Fähigkeit überspringen jede zweite Runde statt eine Attacke einzusetzen (""faulenzen"").
+
+Faulenzen unterbricht Attacken die über mehrere Runden gehen genauso wie paralysis, Zurückschrecken usw. Die meisten dieser Attacken, wie bide oder rollout, werden einfach abgebrochen, wenn das Pokémon faulenzt. Attacken nach denen eine Runde aufgeladen werden muss, wie hyper beam, müssen nicht aufgeladen werden, Attacken mit Vorbereitungsrunde, wie fly, werden nicht abgebrochen. Attacken die mehrere Runden dauern aber bei einem Fehlschlag nicht enden, wie outrage, uproar, oder jede von encore erzwungene Attacke, enden nicht, wenn das Pokémon faulenzt.
+
+Wenn das Pokémon verwirrt ist, wird die confusion nicht beachtet beim Faulenzen, das Pokémon verletzt sich nicht selbst und die confusion endet nicht früher deswegen.
+
+Wenn das Pokémon versucht sich zu bewegen aber von paralysis oder gravity daran gehindert wird, zählt das trotzdem als erfolgreich und es wird die nächste Runde faulenzen. Wenn es nicht versucht sich zu bewegen, weil es beispielsweise schläft oder eingefroren ist, wird das was es versucht hat verschoben bis zum nächsten Versuch, der eine Attacke oder faulenzen sein kann, abhängig davon, was es zuletzt tat.
+
+Diese Fähigkeit kann nicht mit worry seed ausgetauscht werden, aber mit gastro acid deaktiviert, mit role play geändert oder mit skill swap getauscht werden.",de,Überspringt jede zweite Runde.
+55,55,"Physische Attacken von Pokémon mit dieser Fähigkeit verursachen 1,5× so viel Schaden wie sonst, haben dafür aber nur 80% ihrer normalen accuracy.
+
+Spezialattacken werden nicht beeinflusst. Attacken die festen Schaden verursachen wie seismic toss haben ihren normalen Schaden aber die verringerte accuracy.
+
+Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, tauchen Pokémon mit einem höheren Level häufiger auf.",de,"Erhöht den Schaden von physischen Attacken um 50%, aber senkt ihre accuracy auf 80% ihres sonstigen Werts."
+56,56,"Wenn ein Pokémon mit dieser Fähigkeit von einer Attacke mit Kontakt getroffen wird, besteht eine 30% Chance, dass beim Angreifer Anziehung ausgelöst wird.
+
+Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, besteht bei allen wilden Pokémon die beide Geschlechter haben können eine 2/3 Chance, vom anderen Geschlecht zu sein und eine 1/3 Chance ein zufälliges Geschlecht zu haben.",de,Bei Kontakt besteht eine 30% Chance beim Gegner Anziehung auszulösen.
+57,57,"Pokémon mit dieser Fähigkeit haben einen 1,5× so hohen special attack wenn ein Team-Pokémon die Fähigkeit plus oder minus hat.
+
+Der Bonus zählt nicht als stat modifier. Wenn eine der Fähigkeiten deaktiviert wird, z.B. von gastro acid, verlieren beide ihren Effekt.",de,Erhöht den special attack um 50% wenn ein Team-Pokémon plus oder minus hat.
+58,58,"Pokémon mit dieser Fähigkeit haben einen 1,5× so hohen special attack wenn ein Team-Pokémon die Fähigkeit plus oder minus hat.
+
+Der Bonus zählt nicht als stat modifier. Wenn eine der Fähigkeiten deaktiviert wird, z.B. von gastro acid, verlieren beide ihren Effekt.",de,Erhöht den special attack um 50% wenn ein Team-Pokémon plus oder minus hat.
+59,59,"Während es regnet, hagelt oder bei starkem Sonnenlicht, ändert sich der Typ des Pokémons zu water, ice oder fire, respektive. Außerdem ändert sich seine Form entsprechend.
+
+Die Fähigkeit hat keinen Effekt für jedes andere Pokémon außer castform.
+
+Wenn das weather endet oder sich zu einem ändert welches diese Fähigkeit nicht beeinflusst, oder wenn ein Pokémon mit air lock oder cloud nine den Kampf betritt, werden Typ und Form auf den Normalwert zurückgesetzt. Wenn die Fähigkeit deaktiviert oder ausgetauscht wird, kann das Pokémon seine Form nicht ändern, bis es sie wiedererlangt.",de,Ändert den Typ von castform zu dem des Wetters.
+60,60,"Einem Pokémon mit dieser Fähigkeit kann ein getragenes Item nicht gestohlen werden.
+
+Attacken die Schaden verursachen und Items entfernen verursachen immer noch Schaden, z.B. knock off oder pluck. Das Pokémon kann trotzdem Attacken einsetzen die eigene Items entfernen, wie z.B. fling oder trick.
+
+Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, erhöht sich die Erfolgsrate beim Angeln.",de,"Verhindert, dass ein getragenes Item von einem anderen Pokémon gestohlen werden kann."
+61,61,Pokémon mit dieser Fähigkeit haben am Ende jeder Runde eine 33% Chance von einer bestehenden major status ailment geheilt zu werden.,de,Nach jeder Runde besteht eine 33% Chance von einer bestehenden Statusänderung geheilt zu werden.
+62,62,"Wenn ein Pokémon mit dieser Fähigkeit schläft, brennt, paralysiert oder vergiftet ist, ist sein attack 1,5× so hoch wie sonst. Bei Verbrennung gibt es keine Halbierung des Angriffs.
+
+Der Bonus zählt nicht als Statuswerte Änderung.",de,Erhöht den attack um 50% wenn das Pokémon unter einer major status ailment leidet.
+63,63,"Wenn ein Pokémon mit dieser Fähigkeit unter einer major status ailment leidet, hat es eine 1,5× höhere defense.
+
+Der Bonus zählt nicht als Statuswerte Änderung.",de,Erhöht die defense um 50% wenn das Pokémon unter einer major status ailment leidet.
+64,64,"Whenever a Pokémon would heal after hitting this Pokémon with a leeching move like absorb, it instead loses as many HP as it would usually gain.
+
+dream eater is unaffected.",en,Damages opponents using leeching moves for as much as they would heal.
+65,65,"When this Pokémon has 1/3 or less of its HP remaining, its grass-type moves inflict 1.5× as much regular damage.",en,Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.
+66,66,"Wenn ein Pokémon mit dieser Fähigkeit nur noch 1/3 seiner maximalen hp oder weniger hat, werden all seine fire Attacken verstärkt, so dass sie 1,5× so viel regular damage anrichten wie sonst.",de,Erhöht den Schaden von fire Attacken um 50% wenn nur noch 1/3 der maximalen hp oder weniger übrig sind.
+67,67,"Wenn ein Pokémon mit dieser Fähigkeit nur noch 1/3 seiner maximalen hp oder weniger hat, werden all seine water Attacken verstärkt, so dass sie 1,5× so viel regular damage anrichten wie sonst.",de,Erhöht den Schaden von water Attacken um 50% wenn nur noch 1/3 der maximalen hp oder weniger übrig sind.
+68,68,"Wenn ein Pokémon mit dieser Fähigkeit nur noch 1/3 seiner maximalen hp oder weniger hat, werden all seine bug Attacken verstärkt, so dass sie 1,5× so viel regular damage anrichten wie sonst.
+
+Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, ist die Wahrscheinlichkeit einem wilden Pokémon zu begegnen doppelt so hoch wie normal.",de,Erhöht den Schaden von bug Attacken um 50% wenn nur noch 1/3 der maximalen hp oder weniger übrig sind.
+69,69,"Pokémon mit dieser Fähigkeit erhalten keinen Schaden vom Rückstoß diverser Attacken.
+
+Der Rückstoß von struggle wird nicht verhindert. Die Fähigkeit verhindert nicht den Schaden der vom Fehlschlag von jump kick oder high jump kick verursacht wird.",de,Schützt vor Rückstoßschaden.
+70,70,"Das weather ändert sich zu starkem Sonnenlicht wenn ein Pokémon mit dieser Fähigkeit den Kampf betritt. Dieser Effekt ist dauerhaft bis das weather geändert wird.
+
+Wenn mehrere Pokémon mit dieser Fähigkeit, drizzle, sand stream oder snow warning zur selben Zeit den Kampf betreten, werden die Fähigkeiten nach Reihenfolge der speed der Pokémon ausgelöst, unter Berücksichtigung von trick room.",de,Ändert beim Betreten des Kampfes das weather in starkes Sonnenlicht.
+71,71,"Wenn ein Pokémon mit dieser Fähigkeit im Kampf ist, kann der Gegner nicht fliehen oder ausgetauscht werden. flying Pokémon und schwebende, z.B. durch levitate oder magnet rise sind nicht betroffen.
+
+Pokémon mit run away können trotzdem fliehen. Pokémon können mit bestimmten Items oder Attacken ausgetauscht werden.
+
+Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, ist die Wahrscheinlichkeit einem wilden Pokémon zu begegnen doppelt so hoch wie normal.",de,"Verhindert, dass der Gegner flieht oder ausgetauscht wird wenn er nicht vom Typ flying ist oder schwebt."
+72,72,"Ein Pokémon mit dieser Fähigkeit kann nicht einschlafen.
+
+rest schlägt fehl. Wenn ein Pokémon schläft und diese Fähigkeit erhält, wacht es sofort auf. Das bezieht das Wiedererlangen dieser Fähigkeit nach dem Kampf mit ein.
+
+Diese Fähigkeit ist identisch mit insomnia.
+
+Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, tauchen Pokémon mit einem höheren Level häufiger auf.",de,Verhindert sleep.
+73,73,"Einem Pokémon mit dieser Fähigkeit können keine negativen Statuswerte Änderungen von anderen Pokémon zugefügt werden.
+
+Diese Fähigkeit verhindert keine stat modifiers die nicht direkt verursacht wurden, wie die verminderte speed durch paralysis oder selbstverursachte negative Statuswerteänderungen wie durch overheat. Dem Pokémon können trotzdem negative Statuswerte mit guard swap, heart swap oder power swap übertragen werden.
+
+Diese Fähigkeit ist identisch mit clear body im Kampf.
+
+Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, tauchen wilde Pokémon nur halb so oft auf.",de,Verhindert negative stat modifier von anderen Pokémon.
+74,74,"Solange sich ein Pokémon mit dieser Fähigkeit im Kampf befindet ist sein attack doppelt so hoch wie sonst.
+
+Dieser Bonus zählt nicht als stat modifier.
+
+Diese Fähigkeit ist identisch mit huge power.",de,Verdoppelt den attack im Kampf.
+75,75,"Attacken können keinen kritischen Treffer landen.
+
+Diese Fähigkeit ist identisch mit battle armor.",de,Schützt vor kritischen Treffern.
+76,76,"Während ein Pokémon mit dieser Fähigkeit im Kampf ist, kann das weather zwar geändert werden, hat aber keinen Effekt.
+
+Diese Fähigkeit ist identisch mit cloud nine.",de,Entfernt alle Wettereffekte aber ändert nicht das weather selbst.
+77,77,"Wenn ein Pokémon mit diese Fähigkeit verwirrt ist, ist sein evasion doppelt so hoch wie sonst.",de,Verdoppelt den evasion bei confusion.
+78,78,"Wenn ein Pokémon mit dieser Fähigkeit von einer electric Attacke getroffen wird, erhöht sich seine speed um 1 Stufe, wobei andere Effekte der Attacke ignoriert werden.
+
+Die Fähigkeit wirkt nicht, wenn das Pokémon immun gegen electric Attacken ist. electric Attacken ignorieren den substitute des Pokémons.
+
+Der Effekt wird auch bei Attacken ausgelöst die keinen Schaden verursachen, wie z.B. thunder wave.",de,Absorbiert electric Attacken und erhöht dabei die speed um 1 Stufe.
+79,79,"Ein Pokémon mit dieser Fähigkeit verurascht gegen Gegner vom gleichen Geschlecht 25% mehr Schaden und gegen Pokémon vom anderen Geschlecht 25% weniger Schaden.
+
+Wenn eins der Pokémon geschlechtslos ist, wird der Schaden nicht beeinflusst.",de,Erhöht den verursachten Schaden gegen Pokémon vom gleichen Geschlecht um 25% aber senkt ihn auf 0.75% gegen das andere Geschlecht.
+80,80,"Wenn ein Pokémon mit dieser Fähigkeit zurückschreckt, wird seine speed um 1 Stufe erhöht.",de,Erhöht die speed um 1 Stufe wenn das Pokémon zurückschreckt.
+81,81,"Während es hagelt hat ein Pokémon mit dieser Fähigkeit einen um 25% erhöhten evasion und es nimmt keinen Schaden durch hail.
+
+Der Bonus zählt nicht als Statuswerte Änderung.
+
+Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, tauchen nur halb so viele wilde Pokémon auf wenn es schneit.",de,Erhöht den evasion um 25% während es hagelt. Kein Schaden durch hail.
+82,82,"Pokémon mit dieser Fähigkeit essen eine getragene Beere, wenn sie weniger als die Hälfte ihrer maximalen hp haben, unabhängig von der Auslöseschwelle der Beere.",de,"Lässt das Pokémon eine getragene Beere essen, wenn es weniger als die Hälfte seiner maximalen hp hat."
+83,83,"Wenn ein Pokémon mit dieser Fähigkeit von einem kritischen Treffer getroffen wird, erhöht sich sein attack auf die höchste Stufe von 6.
+
+Die Fähigkeit löst auch aus, wenn der kritische Treffer vom substitute abgefangen wird.",de,Erhöht den attack auf die höchste Stufe (6) wenn es einen kritischen Treffer erleidet.
+84,84,"Wenn ein Pokémon mit dieser Fähigkeit ein getragenes Item benutzt oder verliert, wird seine speed verdoppelt. Wenn es ein neues Item erhält oder den Kampf verlässt, erlischt der Bonus.
+
+Das passiert auch, wenn das Item durch knock off fallengelassen wird. Der Bonus zählt nicht als Statuswert-Änderung. Es gibt keine Benachrichtigung wenn der Effekt eintritt.",de,Verdoppelt die speed wenn das Pokémon ein getragenes Item benutzt oder verliert.
+85,85,Pokémon mit dieser Fähigkeit erhalten nur halben Schaden von fire Attacken und Verbrennungen.,de,Halbiert den Schaden von fire Attacken und burn.
+86,86,"Jede Stufe einer Statuswerte-Änderung agiert als 2 Stufen. Diese Doppelstufen sind trotzdem limitiert auf ein Minimum von -6 und ein Maximum von 6.
+
+Pokémon mit dieser Fähigkeit können trotzdem weniger als -3 oder mehr als 3 Stufen erhalten, aber die zusätzlichen Stufen haben nach der Verdoppelung keinen Effekt.",de,Verdoppelt die Statuswerte-Änderungen. Die Änderungen gehen nicht über -6 oder 6 Stufen hinaus.
+87,87,"Pokémon mit dieser Fähigkeit nehmen 1/8 ihrer maximalen hp Schaden nach jeder Runde mit starkem Sonnenlicht, aber sie heilen 1/8 ihrer maximalen hp nach jeder Runde in der es regnet. Sie nehmen außerdem 1,25× so viel Schaden von fire Attacken, absorbieren aber dafür water Attacken und heilen dabei 1/4 ihrer maximalen hp.",de,"Erleidet 1/8 der max hp Schaden während starkem Sonnenlicht, aber heilt 1/8 der max hp während rain. Erhöht den erhaltenen Schaden durch fire Attacken um 25%, aber absorbiert water Attacken, und heilt dabei 1/4 der max hp."
+88,88,"Wenn ein Pokémon mit dieser Fähigkeit den Kampf betritt, wird sein attack oder special attack um 1 Stufe erhöht, je nachdem, welcher Verteidigungswert des Gegners niedriger ist. Bei Gleichstand wird der special attack erhöht.
+
+Die Fähigkeit löst auch aus, wenn sie während des Kampfes erlangt wird.",de,Erhöht den Angriffswert entsprechend des schwächeren Verteidigungswerts um 1 Stufe beim Betreten des Kampfs.
+89,89,"Die schlagbasierten Attacken von Pokémon mit dieser Fähigkeit, haben 1,2× so viel Stärke.
+
+sucker punch ist nicht schlagbasiert, der Japanische Name bedeutet ""Überaschungsangriff"".",de,Verstärkt schlagbasierte Attacken um 20%.
+90,90,"Wenn ein Pokémon mit dieser Fähigkeit vergiftet ist, erhält es anstatt Schaden zu erleiden 1/8 seiner maximalen hp nach jeder Runde. Das gilt auch für schwere poison.",de,Heilt jede Runde 1/8 der max hp wenn vergiftet.
+91,91,"Pokémon mit dieser Fähigkeit verursachen 2× so viel Schaden, wenn die Attacke dem Typ des Pokémon gleicht, anstatt dem üblichen STAB von 1,5×.",de,"Erhöht den STAB von 1,5× auf 2×."
+92,92,Mehrfach treffende Attacken wie icicle spear von Pokémon mit dieser Fähigkeit treffen immer mit der höchsten Anzahl (meistens 5x mal). Außerdem wird die Genauigkeit von triple kick zweiten und dritten Treffer nicht überprüft.,de,Erweitert mehrfach treffende Attacken wie triple kick zu ihrer vollen Länge.
+93,93,Pokémon mit dieser Fähigkeit werden am Ende jeder Runde von major status ailment geheilt wenn es regnet.,de,Heilt jede Runde eine major status ailment wenn es regnet.
+94,94,"Während starkem Sonnenlicht, wird der special attack von Pokémon mit dieser Fähigkeit um 50% erhöht, dafür erleidet es 1/8 seiner maximalen hp Schaden am Ende der Runde.",de,Erhöht den special attack um 50% aber zieht jede Runde 1/8 der max hp ab während starkem Sonnenlicht.
+95,95,"Wenn ein Pokémon mit dieser Fähigkeit unter einer major status ailment leidet, hat es 1,5× so viel speed wie sonst. Die speed des Pokémon wird nicht halbiert, wenn es paralysiert ist.
+
+Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, tauchen wilde Pokémon nur halb so oft auf.",de,Erhöht die speed um 50% wenn das Pokémon an einer major status ailment leidet.
+96,96,"Attacken von Pokémon mit dieser Fähigkeit agieren alle als normal Attacken.
+
+Attacken die typenlosen Schaden verursachen werden nicht beeinflusst. Attacken mit variablen Typ, so wie hidden power, werden beeinflusst. Sie funktionieren sonst wie üblich, aber z.B. weather ball wird immer vom Typ normal sein, aber es sieht trotzdem anders aus und hat doppelte Stärke bei Wettereffekten.
+
+So wie thunder wave durch Immunitäten verhindert wird, anders als die meisten Attacken ohne Schaden, werden ghost Pokémon nicht beeinflusst vom Effekt dieser Fähigkeit.",de,Attacken des Pokémon werden alle zu normal Attacken.
+97,97,Pokémon mit dieser Fähigkeit verursachen bei kritischen Treffern 3× so viel Schaden anstatt 2× wie sonst.,de,"Verstärkt kritische Treffer, so dass sie 3× so viel Schaden verursachen anstatt 2×."
+98,98,"Pokémon mit dieser Fähigkeit sind immun gegen alle Schäden die nicht direkt von Attacken verursacht werden.
+
+Zum Beispiel nimmt ein Pokémon mit dieser Fähigkeit keinen Schaden durch Wettereffekte, Rückstoß, status ailments oder spikes, aber es leidet trotzdem unter dem Angriffsverlust durch burn. Ein life orb verstärkt die Attacken des Pokémons ohne ihm zu schaden. Alles was direkt von solchem Schaden abhängt hat ebenfalls keinen Effekt. leech seed z.B. wird weder das Pokémon mit dieser Fähigkeit verletzen, noch wird der Gegner geheilt und Gegner die eine jaboca berry oder eine rowap berry tragen werden diese nicht verbrauchen wenn sie von diesem Pokémon getroffen werden.
+
+Die folgenden Attacken sind nicht betroffen: struggle, pain split (egal ob von dem oder gegen das Pokémon benutzt), belly drum, substitute, curse, Attacken die den Anwender ausknocken sowie Schaden durch confusion.
+
+Pokémon mit dieser Fähigkeit werden durhc weder hp verlieren noch dazugewinnen wenn sie hp von einem Pokémon mit liquid ooze absaugen.
+
+Wenn das Pokémon schwer vergiftet wurde, wird der Vergiftungstimer trotzdem jede Runde erhöht. Verliert das Pokémon die Fähigkeit wird es so viel Schaden verlieren wie es ohne die Fähigkeit verlieren würde.",de,Schützt vor jeglichem Schaden der nicht direkt von Attacken verursacht wird.
+99,99,"Attacken die gegen ein oder von einem Pokémon mit dieser Fähigkeit eingesetzt werden treffen immer.
+
+K.O.-Attacken sind davon nicht betroffen. Attacken die von der Fähigkeit beeinflusst werden können auch in Vorbereitungsrunden von dig oder fly treffen.
+
+Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, ist die Wahrscheinlichkeit einem wilden Pokémon zu begegnen doppelt so hoch wie normal.",de,Stellt sicher das Attacken die von dem oder gegen das Pokémon eingesetzt werden treffen.
+100,100,"Attacken dieses Pokémon kommen zu letzt ohne dabei die Prioritäten der Attacken zu umgehen.
+
+Mehrere Pokémon mit dieser Fähigkeit greifen in Reihenfolge ihrer speed an.
+
+full incense und lagging tail erhalten den Vortritt zur Fähigkeit, was bedeutet, dass Pokémon mit diesen Items nach Pokémon mit dieser Fähigkeit agieren. Pokémon mit dieser Fähigkeit und eines der Items werden nur so viel verzögert, als hätten sie nur das Item.
+
+Diese Fähigkeit funktioniert normal während trick room, Pokémon mit dieser Fähigkeit greifen in umgekehrter Reihenfolge der speed nach den Pokémon ohne die Fähigkeit an.",de,Lässt das Pokémon als letztes angreifen innerhalb des Prioritätsspielraums der Attacken
