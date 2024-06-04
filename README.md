@@ -1,7 +1,6 @@
 # Tutorial ETL from pokeapi.co to HDFS by docker-compose
 Notes: In this project, we get the data from https://pokeapi.co/api/v2/ability/ability_id using python and generate CSV files per 100 ability_id. Then, we store all CSV files into HDFS
 
-Step:
 #1. Create a folder to store the project called ‘hadoop_pokeapi’
 
 #2. Create a file in that folder called ‘docker-compose.yml’ and store the yaml format. 
