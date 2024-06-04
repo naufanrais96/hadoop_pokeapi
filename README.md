@@ -3,8 +3,13 @@ Notes: In this project, we get the data from https://pokeapi.co/api/v2/ability/a
 
 Step:
 #1. Create a folder to store the project called ‘hadoop_pokeapi’
-#2. Create a file in that folder called ‘docker-compose.yml’ and store the yaml format. This docker-compose contains namenode image, datanode image, and python image. We created these 3 image as python will run a script to generate csv pokeapi and store it in the same environment to our hadoop (namenode)
-	Script:
+
+#2. Create a file in that folder called ‘docker-compose.yml’ and store the yaml format. 
+
+This docker-compose contains namenode image, datanode image, and python image. We created these 3 image as python will run a script to generate csv pokeapi and store it in the same environment to our hadoop (namenode)
+
+Script:
+
 version: '3.8'
 
 
@@ -64,7 +69,9 @@ networks:
  hadoop:
 
 #3. Create an python image that run a script to store the pokebase api and generate the csv file
-	Script:
+
+Script:
+
 import requests
 import csv
 
@@ -114,8 +121,10 @@ if __name__ == "__main__":
    main()
 
 #4. Create requirements.txt and store a word ‘requests’ as this will be a module that will be installed in our python docker environment.
+
 #5. Create a Dockerfile.python that runs a python container in docker
-	Script:
+
+Script:
 FROM python:3.9
 
 
@@ -135,7 +144,9 @@ COPY hit_pokeapi.py /app/output/
 CMD ["python3", "hit_pokeapi.py"] 
 
 #6. Create a file called ‘config’ and store the config from https://hub.docker.com/r/apache/hadoop 
+
 #7. Open the terminal and go to that folder. Run:
+
 docker-compose up id to create a hadoop environment --> It will run the Dockerfile.python, generate all csv files and store it in the docker directory. 
 docker exec -it python_container /bin/bash --> run python container --> Type ls too see csv files are generated or not.
 docker exec -it namenode /bin/bash --> run a namenode container.
